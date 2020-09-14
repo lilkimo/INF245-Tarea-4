@@ -1,5 +1,6 @@
 # Integrantes
 Zarko Kuljis, 201823523-7
+Obtuve un 100.
 # Comentarios y consideraciones
 Hago uso del plugin integrado de ARMSim# *LegacySWIInstructions* para usar Inputs, Outputs y terminar el programa.
 
